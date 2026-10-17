@@ -26,6 +26,12 @@ A RESTful API for the RaceDay event management system, developed using ASP.NET C
 
 ## Project Status
 
+## Video Presentation
+
+Watch the RaceDay Part 2 RESTful API presentation:
+
+[Watch the presentation on YouTube](https://youtu.be/WSvkDVax_Sw)
+
 The API builds successfully, and 55 unit tests currently pass locally.
 
 ## Setup
